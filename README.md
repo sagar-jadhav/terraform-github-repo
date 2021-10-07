@@ -1,2 +1,3 @@
-# terraform-github-repo
-Terraform module which creates a repository in GitHub
+# GitHub Repository Terraform module
+
+Terraform module which repository on GitHub.
